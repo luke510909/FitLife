@@ -3,7 +3,17 @@
 - [Code Structure](#code-structure)
 
 Fitlife offers a wide range of functionality that users utilize to improve their health and lifestyle. A few of these tools include calorie tracking, planning workouts, and tracking their weight. Not only are there helpful tools and tips to assist users in reaching their fitness goals, but the social media aspect provides individuals with a dedicated platform to engage with fellow fitness advocates.
-
+## App Preview
+### Exercise page
+![Qq8py8](https://i.makeagif.com/media/7-08-2023/Qq8py8.gif)
+####  Explore thousands of exercises retrieved from an API, complete with detailed information and animated GIFs for proper form.
+#### Add exercises to your workout list, specify sets and reps, and track your progress seamlessly. 
+### Favorite Exercises Page
+![RcT-S0](https://i.makeagif.com/media/7-08-2023/RcT-S0.gif)
+#### Plus, favorite your go-to exercises for quick access.
+### Calories Page
+![1JskxN](https://i.makeagif.com/media/7-08-2023/1JskxN.gif)
+#### Easily search for thousands of different foods retrieved from an API, log meals with detailed calorie and macro information, and revisit your past food logs for a complete picture of your nutrition journey. 
 ## Build/Setup Instructions
 - Project Code
   - Flutter v. 3.7.5 (Dart and DevTools are typically downloaded after installing Flutter)
