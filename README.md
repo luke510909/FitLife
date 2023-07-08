@@ -5,7 +5,7 @@
 Fitlife offers a wide range of functionality that users utilize to improve their health and lifestyle. A few of these tools include calorie tracking, planning workouts, and tracking their weight. Not only are there helpful tools and tips to assist users in reaching their fitness goals, but the social media aspect provides individuals with a dedicated platform to engage with fellow fitness advocates.
 ## App Preview
 ### Exercise page
-####  Explore thousands of exercises retrieved from an API, complete with detailed information and animated GIFs for proper form.
+####  Explore thousands of exercises, complete with detailed information and animated GIFs for proper form.
 #### Add exercises to your workout list, specify sets and reps, and track your progress seamlessly. 
 ![Qq8py8](https://i.makeagif.com/media/7-08-2023/Qq8py8.gif)
 
@@ -14,7 +14,7 @@ Fitlife offers a wide range of functionality that users utilize to improve their
 ![RcT-S0](https://i.makeagif.com/media/7-08-2023/RcT-S0.gif)
 
 ### Calories Page
-#### Easily search for thousands of different foods retrieved from an API, log meals with detailed calorie and macro information, and revisit your past food logs for a complete picture of your nutrition journey. 
+#### Easily search for thousands of different foods, log meals with detailed calorie and macro information, and revisit your past food logs for a complete picture of your nutrition journey. 
 ![1JskxN](https://i.makeagif.com/media/7-08-2023/1JskxN.gif)
 ## Build/Setup Instructions
 - Project Code
